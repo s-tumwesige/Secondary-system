@@ -198,7 +198,7 @@ $total_count1=$row1['count(id)'];
             <span class="info-box-icon bg-red"><i class="fa fa-google-plus"></i></span>
 
             <div class="info-box-content">
-              <span class="info-box-text">Total Teacher</span>
+              <span class="info-box-text">Teachers</span>
 <?php
 include_once('../controller/config.php');
 
@@ -275,7 +275,7 @@ $total_income=$row4['SUM(paid)'];
         <!-- /.col -->
       </div>
       <!-- /.row -->
-      <h5><?php echo $name; ?>,<strong><span style="color:#cf4ed4;"> Welcome back! </span></strong></h5>
+      <h5><?php echo $name; ?>,<strong><span style="color:#cf4ed4;"> We are glad to have you.. </span></strong></h5>
 	    
 		<div class="row" id="table1"><!--MSK-000132-1-->    
         	<div class="col-md-8">
