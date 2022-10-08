@@ -116,13 +116,12 @@ $password=$row1['password'];
                                         <tr>
                         					<td>Password</td>
                         					<td id="phone"><?php echo $password; ?> </td>
-                        					
                       					</tr>
                     				</tbody>
                   				</table>
                   			</div>
                    		</div>
-                         <!-- <p class="alert-info" id="note1"><strong>Note: We get the email address for the user name.</strong></p>  -->
+                        <p class="alert-info" id="note1"><strong>We use email address for the user name to login.</strong></p>
                      </div>
                      <div class="panel-footer text-right" id="panel_footer" >
                     	<a href="#" onClick="editMyProfile('<?php echo $index; ?>')" type="button" class="btn btn-sm btn-warning" id="btnEdit"><i class="glyphicon glyphicon-edit"></i></a><!--MSK-00151-->
