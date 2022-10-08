@@ -116,6 +116,7 @@ $password=$row1['password'];
                                         <tr>
                         					<td>Password</td>
                         					<td id="phone"><?php echo $password; ?> </td>
+                        					
                       					</tr>
                     				</tbody>
                   				</table>
