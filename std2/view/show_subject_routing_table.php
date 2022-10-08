@@ -19,7 +19,7 @@ if(!isset($_SERVER['HTTP_REFERER'])){
                         <th class="col-md-1">Grade</th>
                         <th class="col-md-1">Subject</th>
                         <th class="col-md-4">Teacher</th>
-                        <th class="col-md-1">Fee($)</th>
+                        <th class="col-md-1">Fee(shs)</th>
                         <th class="col-md-2">Action</th>
                      </thead>
                      <tbody>
