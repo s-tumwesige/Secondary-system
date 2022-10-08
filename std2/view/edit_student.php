@@ -284,7 +284,7 @@ $row1=mysqli_fetch_assoc($result1);
                                             <label for="exampleInputEmail1">Name With Initials</label>
                                         </div>
                                         <div class="col-xs-9" id="divIName1">
-                                            <input type="text" class="form-control" placeholder="Enter name with initials" name="i_name" id="i_name" autocomplete="off" value="<?php echo $row['i_name']; ?>">
+                                            <input type="text" class="form-control" placeholder="Enter name with initials or full name" name="i_name" id="i_name" autocomplete="off" value="<?php echo $row['i_name']; ?>">
                                         </div>                    
                                     </div>
                                     <div class="form-group" id="divAddress">
