@@ -8,14 +8,14 @@ if(!isset($_SERVER['HTTP_REFERER'])){
 <div class="col-xs-7">
 	<div class="box">
     	<div class="box-header">
-        	<h3 class="box-title">All Grade</h3>
+        	<h3 class="box-title">All Grade Ranges</h3>
         </div><!-- /.box-header -->
         <div class="box-body table-responsive">
         	<table id="example1" class="table table-bordered table-striped">
             	<thead>
                 	<th>ID</th>
                     <th>Grade</th>
-                    <th>Admission Fee($)</th>
+                    <th>Admission Fee(shs)</th>
                     <th>Hall Charge(%)</th>
                     <th>Action</th>
                	</thead>
